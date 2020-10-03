@@ -1,0 +1,161 @@
+body{
+    overflow-x: hidden;
+    color: #006a71;
+}
+
+#title{
+    background-color: #e0ece4;
+    color: #006a71;
+}
+
+.container{
+    padding: 3% 0;
+}
+
+h1{
+    font-family: "Courgette";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Navigation Bar */
+
+.navbar-light .navbar-brand {
+    font-family: "Righteous";
+    font-size: 1.7rem;
+    padding-left: -10px ;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+    padding-left: 0;
+}
+
+.nav-item{
+    padding: 0 10px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    color: #006a71;
+}
+
+/* Download Button  */
+.download-button{
+    margin: 7% 3% 7% 0;
+}
+
+/* course section */
+.card-text{
+    text-align: justify;
+}
+
+#Courses{
+    background-color: #ecf4f3;
+    color: #006a71;
+}
+
+.course-column {
+    padding: 3% 2%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 0 auto;
+}
+
+.card:hover{
+    transition: all 0.5s ease 0s;
+    box-shadow: 0 0 15px #bdbdbd;
+    border: 1px dashed #006a71;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#about{
+    background-color: #e0ece4;
+    font-size: 1.3rem;
+}
+
+.about-info {
+    text-align: center;
+    line-height: 1.8;
+    padding: 10% 0;
+    color: #006a71;
+}
+
+/* feature section */
+#Features{
+    background-color: #ecf4f3;
+}
+
+.features-box {
+    text-align: center;
+    color: #006a71;
+}
+
+.fea-icon{
+    padding: 10%;
+    color: #006a71;
+}
+
+.fea-icon:hover{
+    color: #ff7e67;
+    text-shadow: 0 0 1px #000;
+}
+
+/* testimonial section */
+
+#testimonials{
+    text-align: center;
+    background-color: #e0ece4;
+}
+
+.testimonial-image{
+    width: 7%;
+    margin: 25px;
+    border-radius: 100%;
+}
+
+.carousel-item{
+    padding: 3% 15%;
+}
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+
+}
+
+.social-icon{
+    margin: 20px 10px;
+    font-size: 20px;
+}
+
+.social-icon:hover{
+    color: #ff4c68;
+    cursor: pointer;
+}
+
+/* Contact us section */
+.jumbotron {
+    background: #358CCE;
+    color: #FFF;
+    border-radius: 0px;
+}
+
+.jumbotron-sm { padding-top: 24px;
+    padding-bottom: 24px; }
+    .jumbotron small {
+    color: #FFF;
+}
+
+.h1 small {
+    font-size: 24px;
+}
+
+#contact{
+    background-color: #ecf4f3;
+}
